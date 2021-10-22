@@ -148,7 +148,7 @@ function startQuiz() {
       window.localStorage.setItem("highscores", JSON.stringify(highscores))
   
       // Go to learderboard page //
-      window.location.href = "/assets/highscores.html"
+      window.location.href = "highscores.html"
     }
   }
   
