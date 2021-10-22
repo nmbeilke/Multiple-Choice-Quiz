@@ -39,6 +39,7 @@ The Javascript got unruly fast and solved this by using multiple files.
 ![Screenshot of live site](https://raw.githubusercontent.com/nmbeilke/Homework-Code-Quiz/main/Screen%20Shot%202021-10-22%20at%201.33.16%20AM.png)
 
 https://nmbeilke.github.io/Homework-Code-Quiz/
+Note: I wasn't able to get the "highscores.html" page to load in GitHub pages. I'm wondering if GitHub doesn't allow hosting of more than one html file? Entire app works locally but with this link will give a 404 when it is time to see the leaderboard page. Leaderboard page loads scores and works locally.
 
 ## Credits
   
